@@ -5,3 +5,5 @@ You can download the Jupyter Notebook file in : https://colab.research.google.co
 Due to the size of the file (480 MB), I was unable to push it via Git Bash so I had to store it in my Google Drive.
 
 The datasets are available in my repository
+![Capture d’écran 2025-03-02 202051](https://github.com/user-attachments/assets/d5f98163-86a2-453d-9fc5-dbd95dfaf823)
+![Capture d’écran 2025-03-02 202108](https://github.com/user-attachments/assets/824e0fb7-406f-439a-a310-c87804e380f6)
